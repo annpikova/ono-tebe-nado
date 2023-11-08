@@ -112,8 +112,8 @@ a {
   font-family: Raleway, Arial, sans-serif;
   font-weight: 700;
   font-size: 100px;
-  line-height: 1.15; /* 115px */
-  letter-spacing: 30px; 
+  line-height: 1.15;
+  letter-spacing: 30px;
   text-transform: uppercase;
 }
 
@@ -354,7 +354,6 @@ a {
 }
 
 .footer__social-link {
-  /* display: block; */
   text-decoration: none;
 }
 
