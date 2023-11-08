@@ -163,6 +163,10 @@ a {
   word-spacing: 18px;
 }
 
+.bet-button-link {
+  text-decoration: none;
+}
+
 .bet-button {
   border: 1px solid #fff;
   padding: 12px 32px;
@@ -199,7 +203,7 @@ a {
   под ширину контейнера*/
   flex-grow: 1;
   width: 430px;
-  min-height: 450px; 
+  min-height: 450px;
 }
 
 .card-link {
